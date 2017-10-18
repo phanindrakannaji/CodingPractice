@@ -1,5 +1,7 @@
 .DS_Store
 .metadata
 .metadata/*
-RemoteSystemTempFiles/*
-RemoteSystemTempFiles
+RemoteSystemsTempFiles/*
+RemoteSystemsTempFiles
+.recommenders
+.recommenders/*
